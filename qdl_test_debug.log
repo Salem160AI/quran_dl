@@ -1,0 +1,40 @@
+2025-05-31 17:47:04 - INFO     - Starting comprehensive test suite
+2025-05-31 17:47:04 - INFO     - Initializing test environment
+2025-05-31 17:47:04 - DEBUG    - Created temp directory: C:\Users\EngAl\AppData\Local\Temp\tmp8awxoviv
+2025-05-31 17:47:04 - INFO     - Test environment ready
+2025-05-31 17:47:04 - INFO     - Testing API error handling
+2025-05-31 17:47:04 - INFO     - Cleaning up test environment
+2025-05-31 17:47:04 - DEBUG    - Removed temp directory: C:\Users\EngAl\AppData\Local\Temp\tmp8awxoviv
+2025-05-31 17:47:04 - INFO     - Initializing test environment
+2025-05-31 17:47:04 - DEBUG    - Created temp directory: C:\Users\EngAl\AppData\Local\Temp\tmpusz7c2q0
+2025-05-31 17:47:04 - INFO     - Test environment ready
+2025-05-31 17:47:04 - INFO     - Testing corrupted download handling
+2025-05-31 17:47:04 - INFO     - Corrupted download test passed
+2025-05-31 17:47:04 - INFO     - Cleaning up test environment
+2025-05-31 17:47:04 - DEBUG    - Removed temp directory: C:\Users\EngAl\AppData\Local\Temp\tmpusz7c2q0
+2025-05-31 17:47:04 - INFO     - Initializing test environment
+2025-05-31 17:47:04 - DEBUG    - Created temp directory: C:\Users\EngAl\AppData\Local\Temp\tmpsv2fuond
+2025-05-31 17:47:04 - INFO     - Test environment ready
+2025-05-31 17:47:04 - INFO     - Testing file permission handling
+2025-05-31 17:47:04 - INFO     - Cleaning up test environment
+2025-05-31 17:47:04 - DEBUG    - Removed temp directory: C:\Users\EngAl\AppData\Local\Temp\tmpsv2fuond
+2025-05-31 17:47:04 - INFO     - Initializing test environment
+2025-05-31 17:47:04 - DEBUG    - Created temp directory: C:\Users\EngAl\AppData\Local\Temp\tmpwcjf6fp2
+2025-05-31 17:47:04 - INFO     - Test environment ready
+2025-05-31 17:47:04 - INFO     - Testing high concurrency scenario
+2025-05-31 17:47:04 - INFO     - High concurrency test passed
+2025-05-31 17:47:04 - INFO     - Cleaning up test environment
+2025-05-31 17:47:04 - DEBUG    - Removed temp directory: C:\Users\EngAl\AppData\Local\Temp\tmpwcjf6fp2
+2025-05-31 17:47:04 - INFO     - Initializing test environment
+2025-05-31 17:47:04 - DEBUG    - Created temp directory: C:\Users\EngAl\AppData\Local\Temp\tmp22c_4teo
+2025-05-31 17:47:04 - INFO     - Test environment ready
+2025-05-31 17:47:04 - INFO     - Testing network failure handling
+2025-05-31 17:47:04 - INFO     - Cleaning up test environment
+2025-05-31 17:47:04 - DEBUG    - Removed temp directory: C:\Users\EngAl\AppData\Local\Temp\tmp22c_4teo
+2025-05-31 17:47:04 - INFO     - Initializing test environment
+2025-05-31 17:47:04 - DEBUG    - Created temp directory: C:\Users\EngAl\AppData\Local\Temp\tmplw4e0s2o
+2025-05-31 17:47:04 - INFO     - Test environment ready
+2025-05-31 17:47:04 - INFO     - Testing partial download resumption
+2025-05-31 17:47:04 - INFO     - Partial download test passed
+2025-05-31 17:47:04 - INFO     - Cleaning up test environment
+2025-05-31 17:47:04 - DEBUG    - Removed temp directory: C:\Users\EngAl\AppData\Local\Temp\tmplw4e0s2o
